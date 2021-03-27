@@ -21,7 +21,7 @@ description: Personal site of Dan Forbes, technology enthusiast.
 twitter_username: danforbesdev
 github_username: danforbes
 minimal_mistakes_skin: dark
-url: https://danforbes.github.io/danforbesdev/
+url: https://danforbes.github.io/danforbesdev
 
 # Build settings
 markdown: kramdown
